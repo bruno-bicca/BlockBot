@@ -22,35 +22,35 @@
               "name": "BlockBot Start"
             }
           ],
-          "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.8.0-48-gb176eee"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.10.0-arduino9"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS-Atmel",
-              "version": "1.2.0"
-            }
-          ]
-        }
-      ]
+
+{
+  "packages": [
+    {
+      "name": "BlockBot",
+      "maintainer": "Techno Robots",
+      "websiteURL": "http://technorobots.com.br",
+      "email": "bruno@technorobots.com.br",
+      "help": {
+        "online": "http://technorobots.com.br"
+      },
+      "platforms": [
+        {
+          "name": "BlockBot",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/technorobots/BlockBot.git/blockbot1.0.1.zip",
+          "archiveFileName": "blockbot1.0.1.zip",
+          "checksum": "SHA-256:8abc52f6c839173f30d84c6feb3a346e6988dffcf1b472522e205561c79a22af",
+          "size": "638976",
+          "boards": [
+            {"name": "BlockBot Start"}
+          ],
+          "toolsDependencies": []
+        },
+        
+      ],
+      "tools": []
     }
   ]
 }
