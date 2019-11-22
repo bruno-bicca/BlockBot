@@ -19,11 +19,12 @@
           "checksum": "SHA-256:2711BAF2D786F3B5E9EAB0E1413B3668D267C14E398FD75BF1811770A35947D6",
           "size": "654275",
           "boards": [
-            "name": "BlockBot Start"
+            {
+              "name": "BlockBot Start"
+            }
           ],
           "toolsDependencies": []
         }
-        
       ],
       "tools": []
     }
