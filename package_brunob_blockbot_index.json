@@ -24,6 +24,22 @@
             }
           ],
           "toolsDependencies": []
+        },
+        {
+          "name": "BlockBot",
+          "architecture": "avr",
+          "version": "1.0.2",
+          "category": "TechnoRobots",
+          "url": "https://github.com/technorobots/BlockBot/raw/master/blockbot1.0.2.zip",
+          "archiveFileName": "blockbot1.0.2.zip",
+          "checksum": "SHA-256:D59B24E91C9A42DE2B2C52A6BDABFE1920667BB667EC46F97321AE13EFD94FBD",
+          "size": "241955",
+          "boards": [
+            {
+              "name": "BlockBot Start"
+            }
+          ],
+          "toolsDependencies": []
         }
       ],
       "tools": []
