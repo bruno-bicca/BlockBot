@@ -16,8 +16,6 @@
           "category": "Contributed",
           "url": "https://github.com/technorobots/BlockBot/blob/master/blockbot1.0.1.zip",
           "archiveFileName": "blockbot1.0.1.zip",
-          "checksum": "SHA-256:8abc52f6c839173f30d84c6feb3a346e6988dffcf1b472522e205561c79a22af",
-          "size": "638833",
           "boards": [
             {"name": "BlockBot Start"}
           ],
