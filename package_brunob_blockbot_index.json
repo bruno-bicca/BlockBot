@@ -12,12 +12,12 @@
         {
           "name": "BlockBot",
           "architecture": "avr",
-          "version": "0.1.3",
+          "version": "0.1.4",
           "category": "TechnoRobots",
-          "url": "https://github.com/technorobots/BlockBot/raw/master/blockbot0.1.3.zip",
-          "archiveFileName": "blockbot0.1.3.zip",
-          "checksum": "SHA-256:C8ED39081C85B20D33531091D79A62F0BF446ADF62B1D4A36365A4E8AB7F3320",
-          "size": "241773",
+          "url": "https://github.com/technorobots/BlockBot/raw/master/blockbot0.1.4.zip",
+          "archiveFileName": "blockbot0.1.4.zip",
+          "checksum": "SHA-256:8FB0F8D5F6425A916B71C7B8DD7C2629A5334C1E73EE8E12A3F830A2D4B75426",
+          "size": "276367",
           "boards": [
             {
               "name": "BlockBot Start"
